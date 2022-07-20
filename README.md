@@ -1,2 +1,5 @@
-# M6-W1-P1-strive_blog_template
- 
+# Strive Blog Template
+
+- ✅ react-router-dom is updated
+- ✅ class components converted to functional components
+- ✅ components re-named
